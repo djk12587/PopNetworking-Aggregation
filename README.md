@@ -1,6 +1,10 @@
 # PopNetworking+Aggregation
 
-⚠️⚠️⚠️Only use this framework if your project does not support iOS 13 and Combine. It is best to use PopNetworking's Combine support⚠️⚠️⚠️
+⚠️⚠️⚠️
+Only use this framework if your project does not support iOS 13 and Combine. It is best to use [PopNetworking's Combine support](https://github.com/djk12587/PopNetworking/releases/tag/0.4.0) 
+⚠️⚠️⚠️
+
+### How to use
 
 Two routes can be aggregated together with the new `and()` function.
 
